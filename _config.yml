@@ -2,7 +2,7 @@ title: Mo Fazelnia
 logo: /assets/img/logo.jpg
 email: person@address.com
 # description: Minimalistic is a theme powered by Jekyll.
-# favicon: true
+favicon: true
 color-scheme: light
 
 plugins:
