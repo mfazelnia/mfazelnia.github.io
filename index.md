@@ -40,13 +40,3 @@ When I'm away from the screen, you'll find me surfing 🏄‍♂️ or hiking �
 ### 2021
 - I have passed my doctoral exam
 - Paper Acceptance: My first paper is accepted to ICLR 2021.
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
