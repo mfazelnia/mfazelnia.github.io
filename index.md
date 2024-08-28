@@ -42,3 +42,8 @@ When I'm away from the screen, you'll find me surfing 🏄‍♂️ or hiking �
 ### 2021
 - I have passed my doctoral exam
 - **Paper Acceptance**: My first paper is accepted to ICLR 2021.
+
+### Talks
+- Neuro-Symbolic Approach to Certified Scientific Software Synthesis, ACM AIware
+- Lessons from the Use of Natural Language Inference (NLI) in Requirements Engineering Tasks, IEEE RE
+- Attacks, Defenses, and Tools: A Framework to Facilitate Robust AI/ML Systems, ICLR
