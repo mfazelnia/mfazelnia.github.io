@@ -17,12 +17,15 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/vaibhavvikas
+  - name: Google Scholar
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.google.com
 
-navigation:
-  - name: Readme
-    link: ./index.html
-    sublist:
-      - name: Image
-        link: ./index.html#small-image
-  - name: Another Page
-    link: ./another-page.html
+# navigation:
+#   - name: Readme
+#     link: ./index.html
+#     sublist:
+#       - name: Image
+#         link: ./index.html#small-image
+#   - name: Another Page
+#     link: ./another-page.html
