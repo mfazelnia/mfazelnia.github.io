@@ -1,6 +1,6 @@
 title: Mo Fazelnia
 logo: /assets/img/logo.jpg
-email: person@address.com
+email: fazelniamo@gmail.com
 # description: Minimalistic is a theme powered by Jekyll.
 favicon: true
 color-scheme: light
@@ -13,13 +13,13 @@ plugins:
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/vaibhavvikas
+    link: https://github.com/mfazelnia
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    link: https://www.linkedin.com/in/mfazelnia/
   - name: Google Scholar
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.google.com
+    link: https://scholar.google.com/citations?user=5feI7M4AAAAJ&hl=en&oi=ao
 
 # navigation:
 #   - name: Readme
