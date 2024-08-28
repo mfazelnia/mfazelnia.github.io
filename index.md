@@ -23,16 +23,17 @@ When I'm away from the screen, you'll find me surfing 🏄‍♂️ or hiking �
 - I am serving as a reviewer for NeurIPS 2024
 - **Paper Acceptance**: Our paper is accepted to ACM ASE Conference.
 - I will presenting our work on NeuroSymbolic AI at the ACM AIWare 2024 Conference.
-- I am serving as a reviewer for the IEEE TSE journal.
+- I am serving as a reviewer for IEEE TSE journal.
 - **Paper Acceptance**: Our paper is accepted to ACM AIware Conference 2024
-- I am presenting our work on Natural Language Inference for requirements analysis at the IEEE RE 2024.
+- I am presenting our work on Natural Language Inference for requirements analysis at IEEE RE 2024.
 - **Paper Acceptance**: Our paper is accepted to IEEE RE 2024 Conference.
 
 ### 2023
 - At NeurIPS 2023, I won the first place prize 🎧 from [G-Research](https://www.gresearch.com/about/about-us/) in a card game!
 - I am transferring to university of Hawaii at Manoa! Can't wait to be there!
 - I will be attenting NeurIPS 2023.
-- I am serving as a reviewer for the IEEE TSE journal.
+- I am serving as a reviewer for ICMLA.
+- I am serving as a reviewer for IEEE TSE journal.
 
 ### 2022
 - **Paper Acceptance**: Our paper is accepted to IEEE S&P.
