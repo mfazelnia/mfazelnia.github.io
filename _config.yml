@@ -19,7 +19,7 @@ platforms:
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/mfazelnia/
   - name: Google Scholar
-    icon: <i class="fa-brands fa-linkedin"></i>
+    icon: <i class="fa-brands fa-graduation-cap"></i>
     link: https://scholar.google.com/citations?user=5feI7M4AAAAJ&hl=en&oi=ao
 
 # navigation:
