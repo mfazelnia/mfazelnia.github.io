@@ -22,6 +22,8 @@ platforms:
     icon: <i class="fa-solid fa-graduation-cap"></i>
     link: https://scholar.google.com/citations?user=5feI7M4AAAAJ&hl=en&oi=ao
 
+google_analytics: G-P69F5E9DQ2
+
 # navigation:
 #   - name: Readme
 #     link: ./index.html
