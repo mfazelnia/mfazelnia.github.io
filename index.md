@@ -37,7 +37,7 @@ When I'm away from the screen, you'll find me surfing 🏄‍♂️ or hiking �
 
 ### 2022
 - **Paper Acceptance**: Our paper is accepted to IEEE S&P.
-- I am attending ACM ASE 2023.
+- I am attending ACM ASE 2022.
 - I have completed my summer internship at Hitachi as a Machine Learning intern. 
 
 ### 2021
