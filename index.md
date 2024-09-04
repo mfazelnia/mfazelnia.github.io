@@ -36,11 +36,11 @@ When I'm away from the screen, you'll find me surfing 🏄‍♂️ or hiking �
 - I will be attenting NeurIPS 2023.
 - I am serving as a reviewer for ICMLA.
 - I am serving as a reviewer for IEEE TSE journal.
-### 2022
+2022
 - **Paper Acceptance**: Our paper is accepted to IEEE S&P.
 - I am attending ACM ASE 2022.
 - I have completed my summer internship at Hitachi as a Machine Learning intern. 
-### 2021
+2021
 - I have passed my doctoral exam
 - **Paper Acceptance**: My first paper is accepted to ICLR 2021.
 
