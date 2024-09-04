@@ -20,7 +20,7 @@ When I'm away from the screen, you'll find me surfing 🏄‍♂️ or hiking �
 - Attacks, Defenses, and Tools: A Framework to Facilitate Robust AI/ML Systems, [link](https://arxiv.org/pdf/2202.09465), RobustML, ICLR, 2021.
 
 ## News
-###2024
+##2024
 - I am serving as a reviewer for ICLR 2024
 - I am serving as a reviewer for NeurIPS 2024
 - **Paper Acceptance**: Our paper is accepted to ACM ASE Conference.
@@ -30,7 +30,7 @@ When I'm away from the screen, you'll find me surfing 🏄‍♂️ or hiking �
 - I am presenting our work on Natural Language Inference for requirements analysis at IEEE RE 2024.
 - **Paper Acceptance**: Our paper is accepted to IEEE RE 2024 Conference.
 
-###2023
+##2023
 - At NeurIPS 2023, I won the first place prize 🎧 from [G-Research](https://www.gresearch.com/about/about-us/) in a card game!
 - I am transferring to university of Hawaii at Manoa! Can't wait to be there!
 - I will be attenting NeurIPS 2023.
