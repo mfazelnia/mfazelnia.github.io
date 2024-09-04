@@ -17,7 +17,7 @@ When I'm away from the screen, you'll find me surfing 🏄‍♂️ or hiking �
 - Supporting AI/ML Security Workers Through an Adversarial Techniques, Tools, and Common Knowledge Framework, [link](https://arxiv.org/pdf/2211.05075), IEEE S&P, 2023.
 - Attacks, Defenses, and Tools: A Framework to Facilitate Robust AI/ML Systems, [link](https://arxiv.org/pdf/2202.09465), RobustML, ICLR, 2021.
 
-### News
+## News
 
 2024
 - I am serving as a reviewer for ICLR 2024
@@ -45,7 +45,7 @@ When I'm away from the screen, you'll find me surfing 🏄‍♂️ or hiking �
 - I have passed my doctoral exam
 - **Paper Acceptance**: My first paper is accepted to ICLR 2021.
 
-### Talks
+## Talks
 - Neuro-Symbolic Approach to Certified Scientific Software Synthesis, ACM AIware
 - Lessons from the Use of Natural Language Inference (NLI) in Requirements Engineering Tasks, IEEE RE
 - Attacks, Defenses, and Tools: A Framework to Facilitate Robust AI/ML Systems, ICLR
