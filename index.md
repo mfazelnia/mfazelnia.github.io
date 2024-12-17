@@ -4,7 +4,7 @@ layout: default
 
 ## Hi, I'm Mo!
 
-I am a final-year Ph.D. student in the Department of Computer Science at the University of Hawaii at Manoa, Honolulu, HI, USA, working under the supervision of [Professor Mirakhorli](https://mehdimirakhorli.github.io). I started my Ph.D. at Rochester Institute of Technology and later transferred to the beautiful Hawaii with our lab for the remainder of my Ph.D. journey. Prior to that, I received my B.Sc. from Sharif University of Technology. 
+I am a Ph.D. Candidate in the Department of Computer Science at the University of Hawaii at Manoa, Honolulu, HI, USA, working under the supervision of [Professor Mirakhorli](https://mehdimirakhorli.github.io). I started my Ph.D. at Rochester Institute of Technology and later transferred to the beautiful Hawaii with our lab for the remainder of my Ph.D. journey. Prior to that, I received my B.Sc. from Sharif University of Technology. 
 
 Broadly, I am interested in trustworthy AI, quantitiave modeling, LLMs, and formal methods. I was also a Machine Learning Intern at Hitachi, Santa Clara, CA, USA working on multimodal retrival and recommender systems. 
 
