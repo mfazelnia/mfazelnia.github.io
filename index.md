@@ -18,10 +18,13 @@ When I'm away from the screen, you'll find me surfing 🏄‍♂️ or hiking �
 - Attacks, Defenses, and Tools: A Framework to Facilitate Robust AI/ML Systems, [link](https://arxiv.org/pdf/2202.09465), RobustML, ICLR, 2021.
 
 ## News
+2025
+- I am serving as a reviewer for ICML 2025.
+- I have passed my proposal defense.
 
 2024
-- I am serving as a reviewer for ICLR 2024
-- I am serving as a reviewer for NeurIPS 2024
+- I am serving as a reviewer for ICLR 2024.
+- I am serving as a reviewer for NeurIPS 2024.
 - **Paper Acceptance**: Our paper is accepted to ACM ASE Conference.
 - I will presenting our work on NeuroSymbolic AI at the ACM AIWare 2024 Conference.
 - I am serving as a reviewer for IEEE TSE journal.
