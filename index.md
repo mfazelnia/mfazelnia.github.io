@@ -6,7 +6,7 @@ layout: default
 
 I am a Ph.D. Candidate in the Department of Computer Science at the University of Hawaii at Manoa, Honolulu, HI, USA, working under the supervision of [Professor Mirakhorli](https://mehdimirakhorli.github.io). I started my Ph.D. at Rochester Institute of Technology and later transferred to the beautiful Hawaii with our lab for the remainder of my Ph.D. journey. Prior to that, I received my B.Sc. from Sharif University of Technology. 
 
-Broadly, I am interested in trustworthy AI, quantitiave modeling, LLMs, and formal methods. I was also a Machine Learning Intern at Hitachi, Santa Clara, CA, USA working on multimodal retrival and recommender systems. 
+Broadly, I am interested in trustworthy AI, LLMs, and generative models. I was also a Machine Learning Intern at Hitachi, Santa Clara, CA, USA working on multimodal retrival and recommender systems. 
 
 When I'm away from the screen, you'll find me surfing 🏄‍♂️ or hiking 🏔️! 
 
@@ -49,6 +49,7 @@ When I'm away from the screen, you'll find me surfing 🏄‍♂️ or hiking �
 - **Paper Acceptance**: My first paper is accepted to ICLR 2021.
 
 ## Talks
+- Translation Titans, Reasoning Rookies: Satisfiability-Aided Language Models for Detecting Conflicting Requirements, ACM ASE
 - Neuro-Symbolic Approach to Certified Scientific Software Synthesis, ACM AIware
 - Lessons from the Use of Natural Language Inference (NLI) in Requirements Engineering Tasks, IEEE RE
 - Attacks, Defenses, and Tools: A Framework to Facilitate Robust AI/ML Systems, ICLR
