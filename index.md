@@ -6,7 +6,7 @@ layout: default
 
 I am a Ph.D. Candidate in the Department of Computer Science at the University of Hawaii at Manoa, Honolulu, HI, US, working under the supervision of [Professor Mirakhorli](https://mehdimirakhorli.github.io). I started my Ph.D. at Rochester Institute of Technology and later transferred to beautiful Hawaii with our lab for the remainder of my Ph.D. journey. Prior to that, I received my B.Sc. from Sharif University of Technology. 
 
-Broadly, I am interested in trustworthy AI, LLMs, and generative models. I have recently joined the GenAI team at Merck to work on LLM and Conversational AI products. I was also a Machine Learning / Data Scientist Intern at Hitachi, Santa Clara, CA, USA working on multimodal retrival and recommender systems. 
+Broadly, I am interested in trustworthy AI, LLMs, and generative models. I have recently joined the GenAI team at Merck to work on LLMs and Conversational AI products. I was also a Machine Learning / Data Scientist Intern at Hitachi, Santa Clara, CA, USA working on multimodal retrival and recommender systems. 
 
 When I'm away from the screen, you'll find me surfing 🏄‍♂️ or hiking 🏔️! 
 
