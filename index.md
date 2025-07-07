@@ -19,7 +19,7 @@ When I'm away from the screen, you'll find me surfing 🏄‍♂️ or hiking �
 
 ## News
 2025
-- I have joined Merck as an AI/ML Intern in GenAI Team.
+- I have joined Merck as an AI/ML Intern in the GenAI Team.
 - I am serving as a reviewer for ICML 2025.
 - I have passed my proposal defense.
 
