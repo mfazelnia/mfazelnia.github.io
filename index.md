@@ -8,7 +8,7 @@ I am a Ph.D. Candidate in the Department of Computer Science at the University o
 
 Broadly, I am interested in trustworthy AI, LLMs, and generative models. I have recently joined the GenAI team at Merck to work on LLMs and Conversational AI products. I was also a Machine Learning / Data Scientist Intern at Hitachi, Santa Clara, CA, USA working on multimodal retrival and recommender systems. 
 
-When I'm away from the screen, you'll find me surfing 🏄‍♂️ or hiking 🏔️! 
+<!-- When I'm away from the screen, you'll find me surfing 🏄‍♂️ or hiking 🏔️! -->
 
 ## Selected Publications
 - Translation Titans, Reasoning Rookies: Satisfiability-Aided Language Models for Detecting Conflicting Requirements, [link](https://www.researchgate.net/profile/Mohamad-Fazelnia-2/publication/383395498_Translation_Titans_Reasoning_Challenges_Satisfiability-Aided_Language_Models_for_Detecting_Conflicting_Requirements/links/66f896a4f599e0392fa9a963/Translation-Titans-Reasoning-Challenges-Satisfiability-Aided-Language-Models-for-Detecting-Conflicting-Requirements.pdf), ACM ASE, 2024. 
