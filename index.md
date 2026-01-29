@@ -34,7 +34,8 @@ Broadly, I am interested in trustworthy AI, LLMs, and generative models. I have 
 - **Paper Acceptance**: Our paper is accepted to IEEE RE 2024 Conference.
 
 2023
-- At NeurIPS 2023, I won the first place prize 🎧 from [G-Research](https://www.gresearch.com/about/about-us/) in a card game!
+<!-- - At NeurIPS 2023, I won the first place prize 🎧 from [G-Research](https://www.gresearch.com/about/about-us/) in a card game! -->
+<!-- - I am transferring to university of Hawaii at Manoa! Can't wait to be there!-->
 - I am transferring to university of Hawaii at Manoa! Can't wait to be there!
 - I will be attenting NeurIPS 2023.
 - I am serving as a reviewer for ICMLA.
